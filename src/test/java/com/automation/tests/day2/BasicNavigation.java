@@ -28,6 +28,6 @@ public class BasicNavigation {
         }
 
         driver.close();// to close the website
-        driver.quit();// to close everything
+       // to close everything
     }
 }
